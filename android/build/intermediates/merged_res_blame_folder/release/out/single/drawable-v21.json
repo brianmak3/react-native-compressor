@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/5cc547954b867ca5aebeb0a7b5acca92/transformed/appcompat-1.4.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/5cc547954b867ca5aebeb0a7b5acca92/transformed/appcompat-1.4.1/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/5cc547954b867ca5aebeb0a7b5acca92/transformed/appcompat-1.4.1/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/5cc547954b867ca5aebeb0a7b5acca92/transformed/appcompat-1.4.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/5cc547954b867ca5aebeb0a7b5acca92/transformed/appcompat-1.4.1/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

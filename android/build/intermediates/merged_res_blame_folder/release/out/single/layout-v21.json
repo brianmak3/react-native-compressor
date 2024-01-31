@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/menu/example_menu2.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/menu/example_menu2.xml"
+    },
+    {
+        "merged": "/Users/user/Desktop/work/Vendor_Project/vendor_app/node_modules/react-native-compressor/android/build/intermediates/merged_res/release/menu/example_menu.xml",
+        "source": "/Users/user/.gradle/caches/transforms-3/63a8e32f41b05fc7da7db38f004b0714/transformed/core-1.7.0/res/menu/example_menu.xml"
+    }
+]
